@@ -1,0 +1,20 @@
+{
+     "schema_version": "1.2",
+     "packages": [
+      {
+       "name": "CloudCCIDE",
+       "description": "CloudCC IDE",
+       "author": "FengRR",
+       "homepage": "https://github.com/FengRR/CloudCCIDE",
+       "last_modified": "2015-04-24",
+       "platforms": {
+        "*": [
+         {
+          "version": "1.1",
+          "url": "https://nodeload.github.com/FengRR/CloudCCIDE/zip/cloudccsublime"
+         }
+        ]
+       }
+      }
+     ]
+    }
