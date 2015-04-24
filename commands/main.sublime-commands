@@ -1,0 +1,8 @@
+[
+    {"caption": "HaoIDE: Switch Project", "command": "switch_project"},
+
+    {
+        "caption": "HaoIDE: New Project",
+        "command": "create_new_project"
+    }
+]
